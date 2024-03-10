@@ -48,6 +48,7 @@ Therefore there are releases in each repo for each phase they were relevant and 
 ### Phase 4
 
   - Backend was split into 4 microservices
+    - Two of them now use DynamoDB instead of PostgreSQL
   - Sonarcloud set up. For Maven projects CI-based analysis was used (for Java code coverage via Jacoco)
   - Unit and behavior tests were created using Cucumber and JUnit.
   - Terraform files modified for use with Vocareum Labs via AWS Academy, provided by the course.
