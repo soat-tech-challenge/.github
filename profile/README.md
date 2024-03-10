@@ -1,5 +1,5 @@
 # FIAP Pós Tech - Software Architecture - Tech Challenge 
-Repositories for the "Tech Challenge" group project (2023 SOAT1 Group 63) from FIAP Pós Tech's Software Architecture course.
+Repositories for the "Tech Challenge" group project (2023 SOAT1 Group 63) from FIAP Pós Tech's [Software Architecture course](https://postech.fiap.com.br/curso/software-architecture/).
 
 ## Project
 The project goal was to study software architecture related topics by creating a self-service and kitchen managment service for a fictional restaurant.
