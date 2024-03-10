@@ -2,7 +2,7 @@
 Repositories for the "Tech Challenge" group project (2023 SOAT1 Group 63) from FIAP Pós Tech's Software Architecture course.
 
 ## Project
-The project goals was to study software architecture related topics by creating a self-service and kitchen managment service for a fictional restaurant.
+The project goal was to study software architecture related topics by creating a self-service and kitchen managment service for a fictional restaurant.
 
 The client may identifiy itself; Checkout an order; Confirm it; Pay it via an external payment service, and the order could be then processed by the kitchen employees.
 
