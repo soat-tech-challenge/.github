@@ -35,16 +35,19 @@ Therefore there are releases in each repo for each phase they were relevant and 
 
 ### Phase 3
 
-  - Refactored project for use with AWS
+  - Refactored project for use within AWS
     - Created Lambda identification flow (JWT auth)
-  - Created initial Terraform files
+  - Created initial Terraform files, for use with Terraform Cloud
   - Set up Github Actions workflows
+    - Maven build and semver bump
+    - Push/Deploy to Docker Hub and AWS
+    - Terraform Cloud remote plan, apply and destroy
 
   ![Phase 3 Client flow AWS diagram](https://github.com/soat-tech-challenge/.github/assets/44736064/00a0f09e-daea-42d1-9354-cab56afac24e)
 
 ### Phase 4
 
-  - Backend was split into 4 microsservices
+  - Backend was split into 4 microservices
   - Sonarcloud set up. For Maven projects CI-based analysis was used (for Java code coverage via Jacoco)
   - Unit and behavior tests were created using Cucumber and JUnit.
   - Terraform files modified for use with Vocareum Labs via AWS Academy, provided by the course.
