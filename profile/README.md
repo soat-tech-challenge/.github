@@ -13,6 +13,9 @@ Some of these topics required code rewriting, refactoring and repository splitti
 
 Therefore there are releases in each repo for each phase they were relevant and what topics were covered in them.
 
+<details>
+  <summary>Details and diagrams of each phase</summary>
+
 ### Phase 1
 
   - Monolithic Spring Boot application with PostgreSQL
@@ -61,10 +64,27 @@ Therefore there are releases in each repo for each phase they were relevant and 
   - Create OWASP ZAP and LGPD RIPD reports.
 
 ![Phase 5 diagram](https://github.com/soat-tech-challenge/.github/assets/44736064/c63adbe6-36cc-4dcc-a623-16eef9c05625)
+  
+</details>
 
 ## Versioning
 The repos in this organization mostly follow semver, but the major version corresponds to the project's target phase at the time of commit. 
 E.g: v4.X.X -> Phase 4
+
+## Hackaton
+In the course there was a Hackaton, which had a similar but smaller project. 
+
+The goal was to develop a system to manage employee's time cards. It could generate reports and send emails, among other requirements.
+The repositories for this project can also be found in this organization.
+
+<details>
+  <summary>Diagrams</summary>
+  
+  ![Hackaton](https://github.com/soat-tech-challenge/.github/assets/44736064/7a63ff9f-1753-4c1b-a1fd-b923970a5efd)
+
+  We also made a diagram for a more feature rich version of the project, although it was not necessary to implement it.
+  ![Hackaton Phase 2](https://github.com/soat-tech-challenge/.github/assets/44736064/2ea424cf-bf34-4bd1-8a45-33dd26b8bf89)
+</details>
 
 ## Group members
 - [g-otn](https://github.com/g-otn)
