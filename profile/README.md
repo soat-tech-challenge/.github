@@ -56,10 +56,11 @@ Therefore there are releases in each repo for each phase they were relevant and 
   ![Phase 4 Client flow AWS diagram](https://github.com/soat-tech-challenge/.github/assets/44736064/92aee4bb-f2a0-41c1-8f7b-b3ee3a4a27b1)
 
 ### Phase 5
-
   - Use SAGA pattern in payment flow
     - Using AWS SQS
   - Create OWASP ZAP and LGPD RIPD reports.
+
+![Phase 5 diagram](https://github.com/soat-tech-challenge/.github/assets/44736064/c63adbe6-36cc-4dcc-a623-16eef9c05625)
 
 ## Versioning
 The repos in this organization mostly follow semver, but the major version corresponds to the project's target phase at the time of commit. 
